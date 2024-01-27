@@ -4,8 +4,8 @@ import time
 import shutil
 import schedule
 
-source_folder = "C:/Users/Joe/Pictures/Screenshots"
 destination_folder = "C:Users/Joe/Desktop/backups"
+source_folder = "C:/Users/Joe/Pictures/Screenshots"
 
 def copy_folder_to_directory(source, destination):
     today = datetime.date.today()
