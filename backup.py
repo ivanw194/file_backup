@@ -1,8 +1,8 @@
 import os
-import shutil
 import datetime
-import schedule
 import time
+import shutil
+import schedule
 
 source_folder = "C:/Users/Joe/Pictures/Screenshots"
 destination_folder = "C:Users/Joe/Desktop/backups"
